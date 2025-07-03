@@ -13,7 +13,7 @@ const Header = () => {
             
             <div className='mt-10 space-x-10'>
                 <a href="#Projects" className='border px-6 py-2 border-white rounded'>Projects</a>
-                <a href="" className='border px-6 py-2 bg-blue-500 rounded'>Contact Us</a>
+                <a href="contactUs" className='border px-6 py-2 bg-blue-500 rounded'>Contact Us</a>
             </div>
         </div>
     </div>
