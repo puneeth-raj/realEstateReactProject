@@ -1,11 +1,17 @@
 Llearning & Implementation
 
 React vite
+
 Image slider
+
 Framer motion
+
 React toastify
+
 web3Forms
+
 tailwind css
+
 html  class scroll-smooth
 
 
