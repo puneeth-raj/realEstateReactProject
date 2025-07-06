@@ -2,6 +2,7 @@
 
 import About from "./components/About"
 import Contact from "./components/Contact"
+import Footer from "./components/Footer"
 import Header from "./components/Header"
 import Project from "./components/Project"
 import Testimonials from "./components/Testimonials"
@@ -16,6 +17,7 @@ const App = () => {
       <Project/>
       <Testimonials/>
       <Contact/>
+      <Footer/>
     </div>
   )
 }

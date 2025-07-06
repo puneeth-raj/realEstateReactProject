@@ -1,3 +1,16 @@
+Llearning & Implementation
+
+React vite
+Image slider
+Framer motion
+React toastify
+web3Forms
+tailwind css
+html  class scroll-smooth
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
